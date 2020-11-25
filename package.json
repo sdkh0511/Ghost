@@ -135,11 +135,12 @@
     "tough-cookie": "4.0.0",
     "uuid": "8.3.1",
     "validator": "6.3.0",
-    "xml": "1.0.1",
-    "sqlite3": "4.2.0"
+    "xml": "1.0.1"
+    
   },
   "optionalDependencies": {
-    "@tryghost/html-to-mobiledoc": "0.7.7"
+    "@tryghost/html-to-mobiledoc": "0.7.7",
+      "sqlite3": "5.0.0"
     
   },
   "devDependencies": {
